@@ -1,0 +1,85 @@
+body{
+    background:#ffffff;
+    font-family: Arial;
+}
+
+img{
+    width: 550px;
+}
+p{
+    width: 700px;
+}
+
+.btn_link {
+    
+    color:#ffffff;
+    background: #000000;
+    padding:8px 50px;
+    border-radius: 100px;
+    text-decoration: none;
+    display:block;
+    width: 273px;
+    margin-bottom: 15px;
+}
+
+.LOL{
+    width: 500px;
+}
+
+.like{
+    600px;
+}
+.btn_Exte{
+    color:#ffffff;
+    background: #000000;
+    padding:8px 50px;
+    border-radius: 100px;
+    display:block;
+    width: 300px;
+    text-decoration: none;
+}
+
+.Akyla_PON{
+    width: 500px;
+}
+
+
+.conteiner{
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+}
+
+body{
+    background:url('https://plus.unsplash.com/premium_photo-1675802520884-45ad9a50c2c9?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3Dws');
+}
+
+#Akyla_PON{
+    background:#0045ff;
+}
+.Text{
+    color:#000000;
+}
+
+
+.menu{
+    background:#000000;
+    padding: 8px 50px;
+    border-radius: 500px;
+    margin-bottom:10px;
+}
+.menu_btm{
+    color:#ffffff;
+    padding:8px 50px;
+    font-family: Arial;
+    font-size: 20px;
+    text-decoration: none;
+    margin-right:46px;
+    
+}
+
+.menu_btm:hover{
+   color:#000000;
+    background: #ffffff
+}
+
