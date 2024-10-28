@@ -20,14 +20,21 @@ p{
     display:block;
     width: 273px;
     margin-bottom: 15px;
+    transition: 0.5s;
+}
+.btn_link:hover{
+    color:#000000;
+  background:#ffffff;
 }
 
 .LOL{
     width: 500px;
+    border-radius:300px;
 }
 
 .like{
     600px;
+    border-radius:30px;
 }
 .btn_Exte{
     color:#ffffff;
@@ -37,10 +44,16 @@ p{
     display:block;
     width: 300px;
     text-decoration: none;
+    transition: 0.5s;
+}
+.btn_Exte:hover{
+    color:#000000;
+  background:#ffffff;
 }
 
 .Akyla_PON{
     width: 500px;
+    border-radius:30px;
 }
 
 
@@ -59,6 +72,7 @@ body{
 }
 .Text{
     color:#000000;
+    
 }
 
 
@@ -75,16 +89,25 @@ body{
     font-size: 20px;
     text-decoration: none;
     margin-right:46px;
+    transition: 0.5s;
     
 }
 
 .menu_btm:hover{
    color:#000000;
-    background: #ffffff;
+  background:#ffffff;
 }
-
-.btn_link:hover{
-    color:#000000;
-    background: #ffffff;
+.By{
+    width:900px;
+    border-radius:100px;
+}
+.Trollface{
+    border-radius:100px;
+}
+.Flork{
+    border-radius:100px;
+}
+.Pugven{
+    border-radius:100px;
 }
 
